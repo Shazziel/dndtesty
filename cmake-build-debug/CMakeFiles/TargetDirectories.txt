@@ -1,0 +1,3 @@
+C:/Users/Admin/CLionProjects/dndtesty/cmake-build-debug/CMakeFiles/dndtesty.dir
+C:/Users/Admin/CLionProjects/dndtesty/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Admin/CLionProjects/dndtesty/cmake-build-debug/CMakeFiles/rebuild_cache.dir

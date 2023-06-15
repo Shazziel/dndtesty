@@ -1,0 +1,4 @@
+"C:\Users\Admin\AppData\Local\JetBrains\CLion 2022.2.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Users/Admin/AppData/Local/JetBrains/CLion 2022.2.4/bin/ninja/win/ninja.exe" -G Ninja -S C:\Users\Admin\CLionProjects\dndtesty -B C:\Users\Admin\CLionProjects\dndtesty\cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Admin/CLionProjects/dndtesty/cmake-build-debug
